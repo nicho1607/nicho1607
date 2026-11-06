@@ -1,6 +1,6 @@
 ### Nicolás Castañeda · Full Stack Developer
 
-TypeScript · Next.js · Node.js · PostgreSQL · Prisma — Medellín, Colombia
+TypeScript · Next.js · Node.js · PostgreSQL · Prisma — Medellín, Colombia · **[Portfolio](https://portafolio-nico-lime.vercel.app)**
 
 **English.** I build full stack web apps with Next.js and PostgreSQL. I work with AI coding agents (Claude Code), and every project says exactly what I did and what the agent did: I define what to build, review the generated code and test it, and I document what still fails.
 
